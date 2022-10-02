@@ -1,0 +1,6 @@
+[submodule "Airplane-Server"]
+	path = Airplane-Server
+	url = https://github.com/Edvi0/Airplane
+[submodule "Airplane-API"]
+	path = Airplane-API
+	url = https://github.com/Edvi0/Airplane
